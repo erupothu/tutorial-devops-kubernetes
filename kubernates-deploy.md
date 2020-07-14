@@ -1,4 +1,4 @@
-<b>Deploying Nginx container on Kubernetes<b>
+<b>Deploying Nginx container on Kubernetes</b>
 
 
 <b>Deploying Nginx Container</b>
