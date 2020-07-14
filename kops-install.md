@@ -23,7 +23,7 @@ aws s3 mb s3://javahome.in.k8s --region ap-south-1
 
 <b>Create private hosted zone in AWS Route53 </b> 
 
-<b> Configure environment variables.<b> \
+<b> Configure environment variables.</b> \
 // export KOPS_CLUSTER_NAME=javahome.in \
 export KOPS_STATE_STORE=s3://javahome.in.k8s 
 
